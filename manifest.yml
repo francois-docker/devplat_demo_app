@@ -1,0 +1,5 @@
+applications:
+- name: hostname_demo_app
+  mem: 64M
+  framework:
+    name: php
